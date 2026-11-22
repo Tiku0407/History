@@ -39,5 +39,21 @@
    25,
    24
   ]
+ },
+ "35": {
+  "date": "2026-11-22",
+  "date_hi": "22 नवंबर 2026",
+  "docx": "CG_Lecturer_History_Set_35_Syllabus_Based_22_Nov_2026.docx",
+  "diff": [
+   28,
+   53,
+   19
+  ],
+  "ans": [
+   26,
+   26,
+   26,
+   22
+  ]
  }
 }
